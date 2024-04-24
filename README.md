@@ -1,8 +1,8 @@
 # Gas-Utility-Service-Management-System
-<img src="https://i.ibb.co/mtPPDD3/SignUp.png" alt="SignUp Page Oneview" width="100%" />
-<hr />
-<img src="https://i.ibb.co/M7gKVZn/Login.png" alt="Login Page Oneview" width="100%" />
-<hr />
+![image](https://github.com/rushipatil8530/Gas-Utility-Service-Management-System/assets/145107024/4b6b2f07-370e-41b5-9a2a-233f6a6c9ac1)
+
+![image](https://github.com/rushipatil8530/Gas-Utility-Service-Management-System/assets/145107024/d1fe4b57-5859-4e69-9099-408dc209ea84)
+
 ![image](https://github.com/rushipatil8530/Gas-Utility-Service-Management-System/assets/145107024/d35b2cb6-832b-4cf3-919f-b3040843e02f)
 
 ![image](https://github.com/rushipatil8530/Gas-Utility-Service-Management-System/assets/145107024/9c644bd4-1d41-4c74-9078-cb2450a02cbd)
