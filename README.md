@@ -9,9 +9,8 @@ The Gas Utility Service Request Management System is a web application built wit
 - **User Authentication**: Secure login system for customers and staff members.
 - **Service Request Submission**: Customers can easily submit service requests through a user-friendly interface.
 - **Service Request Tracking**: Users can track the status of their service requests in real-time.
-- **Staff Dashboard**: Staff members have access to a dashboard for viewing, assigning, and managing service requests.
+- **order Dashboard**: Staff members have access to a dashboard for viewing, assigning, and managing service requests.
 - **Workflow Management**: Define and customize workflow stages for handling service requests.
-- **Notifications**: Automated email notifications to keep users updated on the status of their service requests.
 - **Reporting**: Generate reports and analytics to analyze performance and identify areas for improvement.
 
 ## Installation
